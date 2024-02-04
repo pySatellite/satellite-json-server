@@ -34,7 +34,7 @@ Detected a Dockerfile app
 Creating app in /home/nori/code/satellite-json-server
 We're about to launch your app on Fly.io. Here's what you're getting:
 
-Organization: data.mario24@gmail.com (fly launch defaults to the personal org)
+Organization: ~~~~~@gmail.com (fly launch defaults to the personal org)
 Name:         satellite-json-server  (derived from your directory name)
 Region:       Tokyo, Japan           (this is the fastest region for you)
 App Machines: shared-cpu-1x, 1GB RAM (most apps need about 1GB of RAM)
